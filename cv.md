@@ -34,7 +34,7 @@ function explode(s) {
  * International Sakharov Environmental Institute of Belarusian State University
  * RSSchool
 ## **Languages**
-*******************************************************************************************************
+******************************************************************************************************
   * Russian - native speaker
   * English - A2 (B1 in process…)
 

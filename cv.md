@@ -36,7 +36,7 @@ function explode(s) {
 ## **Languages**
 ******************************************************************************************************
   * Russian - native speaker
-  * English - A2 (B1 in process…)
+  * English - A2 (B1 in progress…)
 
 
 

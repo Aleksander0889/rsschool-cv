@@ -1,0 +1,67 @@
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.wrapper {
+  max-width: 1200px;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.photo-pic {
+  border-radius: 20px;
+}
+
+h2 {
+  color: rgb(237, 237, 241);
+  font-size: 40px;
+}
+
+.contacts {
+  background-color: rgb(166, 213, 245);
+  padding-left: 3%;
+  padding-right: 5%;
+}
+
+.about-me {
+  background-color: rgb(71, 122, 231);
+  padding-left: 5%;
+  padding-right: 7%;
+}
+
+h1 {
+  font-size: 55px;
+  padding-left: 7%;
+}
+
+.skills-txt {
+  padding-top: 15px;
+  font-size: 16px;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+.contacts-title {
+  color: #080808;
+}
+
+.contacts-text {
+  padding-bottom: 15px;
+  font-size: 24px;
+  text-decoration: none;
+  color: rgb(8, 8, 8);
+  font-size: 24px;
+}
+
+.languages-text {
+  padding-bottom: 15px;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+.txt-about-me {
+  color: aliceblue;
+}

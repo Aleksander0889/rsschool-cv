@@ -11,7 +11,7 @@ body {
   display: flex;
 }
 
-.photo_pic {
+.photo-pic {
   border-radius: 20px;
 }
 
@@ -26,7 +26,7 @@ h2 {
   padding-right: 5%;
 }
 
-.about_me {
+.about-me {
   background-color: rgb(71, 122, 231);
   padding-left: 5%;
   padding-right: 7%;
@@ -37,18 +37,18 @@ h1 {
   padding-left: 7%;
 }
 
-.skills_txt {
+.skills-txt {
   padding-top: 15px;
   font-size: 16px;
   font-weight: 600;
   color: aliceblue;
 }
 
-.contacts_title {
+.contacts-title {
   color: #080808;
 }
 
-.contacts_text {
+.contacts-text {
   padding-bottom: 15px;
   font-size: 24px;
   text-decoration: none;
@@ -56,12 +56,12 @@ h1 {
   font-size: 24px;
 }
 
-.languages_text {
+.languages-text {
   padding-bottom: 15px;
   font-weight: 600;
   color: aliceblue;
 }
 
-.txt_about_me {
+.txt-about-me {
   color: aliceblue;
 }

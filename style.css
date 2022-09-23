@@ -1,44 +1,57 @@
-body{
+body {
   margin-top: 0px;
   margin-bottom: 0px;
 }
-.wrapper{
+
+.wrapper {
   max-width: 1200px;
   min-height: 100vh;
   margin-left: auto;
   margin-right: auto;
   display: flex;
-  
+
 }
 
-h2{
-  color: rgb(237, 237, 241);
-  font-size: 32px;
+.photo_pic {
+  border-radius: 20px;
 }
-.contacts{
+
+h2 {
+  color: rgb(237, 237, 241);
+  font-size: 40px;
+}
+
+.contacts {
   background-color: rgb(166, 213, 245);
   padding-left: 3%;
   padding-right: 5%;
 }
-.about_me{
+
+.about_me {
   background-color: rgb(71, 122, 231);
   padding-left: 5%;
   padding-right: 7%;
 }
-h1{
+
+h1 {
   font-size: 55px;
   padding-left: 7%;
 }
-.skills_txt{
+
+.skills_txt {
   padding-top: 15px;
   font-size: 16px;
+  font-weight: 600;
 }
-.contacts_text{
+
+.contacts_text {
   padding-bottom: 15px;
   text-decoration: none;
-  color: black;
-  font-size: 16px;
+  color: rgb(8, 8, 8);
+  font-size: 24px;
 }
-.languages_text{
+
+.languages_text {
   padding-bottom: 15px;
+  font-weight: 600;
 }

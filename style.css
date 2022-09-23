@@ -9,7 +9,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   display: flex;
-
 }
 
 .photo_pic {
@@ -42,10 +41,16 @@ h1 {
   padding-top: 15px;
   font-size: 16px;
   font-weight: 600;
+  color: aliceblue;
+}
+
+.contacts_title {
+  color: #080808;
 }
 
 .contacts_text {
   padding-bottom: 15px;
+  font-size: 24px;
   text-decoration: none;
   color: rgb(8, 8, 8);
   font-size: 24px;
@@ -54,4 +59,9 @@ h1 {
 .languages_text {
   padding-bottom: 15px;
   font-weight: 600;
+  color: aliceblue;
+}
+
+.txt_about_me {
+  color: aliceblue;
 }
